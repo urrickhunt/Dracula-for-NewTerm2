@@ -38,7 +38,7 @@ Choose Dracula for Color Scheme.
 
 ![scheme](https://user-images.githubusercontent.com/96319944/233152962-a6cbe453-1e08-4e74-9683-3d8119e5962c.jpeg)
 
-Enjoy 🧛🏻‍♂️ 
+Enjoy 🧛🏻‍♂️ on NewTerm2
 
 ## Team
 
